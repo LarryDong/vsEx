@@ -1,0 +1,3 @@
+﻿H:\Applications\VS2019\installed\ide\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(452,5): warning MSB8028: The intermediate directory (x64\Debug\) contains files shared from another project (experiment.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  main.cpp
+  cppEx.vcxproj -> C:\Users\larrydong\Desktop\cppEx\x64\Debug\cppEx.exe
